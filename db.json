@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "name": "shipcy",
+            "price": 100,
+            "items": 10
+        },
+        {
+            "id": 1,
+            "name": "pepsi",
+            "price": 200,
+            "items": 20
+        },
+        {
+            "id": 2,
+            "name": "cigaretes",
+            "price": 300,
+            "items": 30
+        },
+        {
+            "id": 3,
+            "name": "kranshy",
+            "price": 400,
+            "items": 40
+        },
+        {
+            "id": 4,
+            "name": "molto",
+            "price": 400,
+            "items": 10
+        },
+        {
+            "id": 5,
+            "name": "potato",
+            "price": 100,
+            "items": 40
+        },
+        {
+            "id": 6,
+            "name": "molto mix",
+            "price": 230,
+            "items": 50
+        }
+    ]   
+}
